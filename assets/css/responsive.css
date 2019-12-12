@@ -1,0 +1,451 @@
+
+@media(width: 1024px){
+    .app-buttons img {
+        border-radius: 15px;
+        width:170px;
+        display: flex;
+        margin: 0 auto;
+    }
+    .adds-btn{
+        margin-right:0px;
+        display: flex;
+        margin:0 auto;
+    }
+    .navbar-nav {
+        display: flex;
+        margin: 0 auto;
+
+
+    }
+    .navbar-toggler {
+        font-size:20px;
+        color: #fff;
+        border: 1px solid  #fff;
+      }
+      .navbar-dark .navbar-toggler {
+        border: 2px solid #fff ;
+  
+      }
+      .navbar-nav {
+          display: flex;
+          margin:0 auto;
+          -ms-flex-direction: column;
+          flex-direction: column;
+          margin-bottom: 0;
+          list-style: none;
+          text-align: center;
+      }
+      .navbar a.btn-light {
+        background: #ffffff;
+        color: #449d44;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 10px 10px;
+        border-radius: 10px;
+        border: none;
+        outline: none;
+        width:200px;
+    }
+   
+    .navbar-dark .navbar-nav .nav-link {
+        color: #ffffff;
+        font-size: 15px;
+        padding: 5px 15px;
+    }
+    .general-table .info-table img {
+        width: 70px;
+        height: 70px;
+    }
+.owl-carousel .item h2 {
+    top: 70px;
+}
+.col-lg-4 .requests .btn-success,.col-lg-4 .requests .btn-danger,.col-lg-4 .requests .btn-info{
+    font-size: 15px;
+    width:100%;
+
+
+}
+.cardAds .content img{
+    width:170px;
+    display: flex;
+    margin: 0 auto;
+}
+
+	
+}
+
+
+
+@media (max-width:992px) { 
+    header {      
+        display: none;
+    }
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        cursor: pointer;
+        border-radius: none;
+        border: 1px solid #ffff;
+    }
+    .app-buttons img {
+        border-radius: 15px;
+        width:170px;
+        display: flex;
+        margin: 0 auto;
+    }
+    .adds-btn{
+        margin-right:0px;
+        display: flex;
+        margin:0 auto;
+    }
+    .navbar-nav {
+        display: flex;
+        margin: 0 auto;
+
+
+    }
+    .navbar-toggler {
+        font-size:20px;
+        color: #fff;
+        border: 1px solid  #fff;
+      }
+      .navbar-dark .navbar-toggler {
+        border: 2px solid #fff ;
+  
+      }
+      .navbar-nav {
+          display: flex;
+          margin:0 auto;
+          -ms-flex-direction: column;
+          flex-direction: column;
+          margin-bottom: 0;
+          list-style: none;
+          text-align: center;
+      }
+      .navbar a.btn-light {
+        background: #ffffff;
+        color: #449d44;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 10px 10px;
+        border-radius: 10px;
+        border: none;
+        outline: none;
+        width:200px;
+    }
+   
+    .navbar-dark .navbar-nav .nav-link {
+        color: #ffffff;
+        font-size: 15px;
+        padding: 5px 15px;
+    }
+    .section .row .cardHidden{
+        display: none;
+    }
+
+    .section .row .card label {
+
+        text-align: right;
+    }
+    .categories{
+        display: none;
+    }
+    .nav-side{
+        display: none;
+    }
+   .owl-carousel .item h2{
+ 
+    top:128px;
+   }
+   footer .cities {
+    font-size: 14px;
+    margin-top:15px;  
+    
+  }  
+  footer .row ul li a {
+    color: #fff;
+    font-size: 10px;
+}
+footer {
+    padding-top :20px;}
+
+
+footer .connect-us ul li a {
+	width: 30px;
+	height: 30px;
+	line-height: 20px;
+	font-size: 13px;
+}
+footer .footerend span {
+    font-size: 12px;
+}
+.lg-table{
+    display: none;
+}
+.sm-table {
+    display: block;
+}
+.contact .row .row1{
+    margin-top: 13px;
+}
+.contact .row textarea{
+    width: 91%;
+    margin-left:15px;
+}
+.contact .row  button.btn-submit{
+    width: 92%;
+}
+
+.arrangePage{
+    margin-right: 15px;
+}
+.arrangePage .row .card .card-body .info-card {
+    color: #000;
+    font-size: 20px;
+}
+.arrangePage .row .row1{
+    margin-top: 10px;
+}
+.arrangePage .row .buttonShare{
+    margin-right: 20px;
+}
+.commentSection label {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+.col-lg-3 .cardAds h4 {
+    margin-right: 50px;
+
+}
+.col-lg-3 .card img {
+    width: 180px;
+    margin-right: 50px;
+
+}
+.col-lg-3 .cardAds img {
+    width: 180px;
+    margin-right: 70px;
+    height: 100px;
+}
+.app-buttons img {
+    border-radius: 15px;
+    width:170px;
+    display: flex;
+    margin: 0 auto;
+}
+.adds-btn{
+    margin-right:0px;
+
+    display: flex;
+    margin:0 auto;
+}
+.navbar-nav {
+    display: flex;
+    margin: 0 auto;
+
+}
+.col-lg-3 .requests a {
+    border-radius: 0px;
+    padding: 6px 53px;
+    font-size: 16px;
+    width: 100%;
+}
+.section .row .card {
+    color: black;
+    width: 20rem;
+}
+.newtable{
+    display: inline;
+}
+.pagination{
+    display: flex;
+    margin-right: 10%;
+
+}
+.pagination a {
+    height:40px;
+    width: 40px ;
+  color: #3a7fe6;
+  text-decoration: none;
+  font-size:16px;
+  border: 1px solid #E8E9EC;
+  text-align: center;
+  line-height: 26px;
+
+
+}
+.pag-device  .pagination{
+    display: flex;
+    margin: 0 auto;
+    margin-left:380px;
+
+}
+.pag-device .pagination a {
+    height:30px;
+    width: 35px ;
+  color: #3a7fe6;
+  text-decoration: none;
+  font-size:16px;
+  border: 1px solid #E8E9EC;
+  text-align: center;
+  line-height: 13px;
+
+
+}
+.table-view{
+    display:inline;
+}
+.newtable{
+    padding-top:100px;
+}
+.login-user {
+    color:#333 ;
+    width:100%;
+    display: flex;
+    margin: 0 auto; 
+    padding:20px;
+}
+.pass input{
+    width:100%;
+}
+
+
+}
+/*
+@media (width:1024px) {
+    .navbar a.btn-light {
+        background: #ffffff;
+        color: #449d44;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 10px 10px;
+        border-radius: 10px;
+        padding-right: 45px;
+        border: none;
+        outline: none;
+        width:130px;
+    }
+    .app-buttons img {
+        border-radius: 15px;
+        width: 130px;
+    } 
+    .col-lg-3 .card img {
+        width: 100px;
+    }
+    .col-lg-3 .requests .btn-success {
+        width: 100px;
+        font-size: 20px;
+    }
+    .col-lg-3 .cardAds {
+        width: 9rem;
+        background: #f8f7f7;
+    }
+    .col-lg-3 .cardAds h4 {
+        font-size: 17px;
+        background: #337ab7;
+        font-weight: bold;
+        color: #fff;
+        width: 100px;
+        padding: 6px 12px;
+    }
+    .col-lg-3 .requests a {
+        border-radius: 0px;
+        padding: 6px 53px;
+        font-size: 16px;
+        width:100px;
+    }
+    .btn-like i, .btn-dislike i {
+        float: right;
+        font-size: 23px;
+        height: 39px;
+        line-height: 39px;
+        margin-left: 6px;
+        text-align: center;
+        width: 30px;
+    }
+ 
+
+}*/
+@media(min-width: 768px) and (max-width:992px) {
+    .app-buttons img {
+        border-radius: 15px;
+        width:170px;
+        display: flex;
+        margin: 0 auto;
+    }
+    .adds-btn{
+        margin-right:0px;
+        display: flex;
+        margin:0 auto;
+    }
+    .navbar-nav {
+        display: flex;
+        margin: 0 auto;
+
+
+    }
+    .navbar-toggler {
+        font-size:20px;
+        color: #fff;
+        border: 1px solid  #fff;
+      }
+      .navbar-dark .navbar-toggler {
+        border: 2px solid #fff ;
+  
+      }
+      .navbar-nav {
+          display: flex;
+          margin:0 auto;
+          -ms-flex-direction: column;
+          flex-direction: column;
+          margin-bottom: 0;
+          list-style: none;
+          text-align: center;
+      }
+      .navbar a.btn-light {
+        background: #ffffff;
+        color: #449d44;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 10px 10px;
+        border-radius: 10px;
+        border: none;
+        outline: none;
+        width:200px;
+    }
+   
+    .navbar-dark .navbar-nav .nav-link {
+        color: #ffffff;
+        font-size: 15px;
+        padding: 5px 15px;
+    }
+    .owl-carousel .item h2 {
+        top: 320px;
+    }
+.arrangePage .card{
+    margin-right: 15px;
+    margin-right: 200px;
+}
+.arrangePage .row .card {
+    margin: 0 auto;
+}
+.section .row .cardHidden{
+    display: none;
+}
+.card-img-top {
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+    height: 200px;
+}
+.col-lg-4 .cardAds .dots{
+    display:none;
+}
+.section .row .card {
+    color: black;
+    width:100%;
+}
+
+}
+
+
+
