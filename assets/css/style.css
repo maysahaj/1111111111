@@ -1,14 +1,14 @@
 html,body{
-    font-family: 'NotoKufiArabic-Regular';
+    font-family: 'coconnextarabic-light';
     width: 100% !important;
     direction: rtl;
     margin: 0 auto !important;
       overflow-x: hidden;
 }
 @font-face {
-	font-family: 'NotoKufiArabic-Regular';
-	src: url('../fonts/ArbFONTS-NotoKufiArabic-Regular.ttf');
-	src: local('☺'),  url('../fonts/ArbFONTS-NotoKufiArabic-Regular.ttf') format('truetype');
+	font-family: 'coconnextarabic-light';
+	src: url('../fonts/coconnextarabic-light.ttf');
+	src: local('☺'),  url('../fonts/coconnextarabic-light.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
