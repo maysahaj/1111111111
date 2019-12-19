@@ -41,7 +41,8 @@ header .nav-link {
 }
 .navbar-dark .navbar-nav .nav-link {
     color: #ffffff;
-    padding: 0px 15px;
+    padding: 0px 20px;
+    font-size: 16px;
 
 }
 .navbar-dark .navbar-nav .nav-link:hover{
