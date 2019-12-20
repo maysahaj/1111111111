@@ -80,6 +80,38 @@
     header {      
         display: none;
     }
+
+.modal-c:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    background: transparent;
+    border: 1px solid #ffff;
+    color:#fff;
+    width:50px;
+    line-height: 7px;
+
+}
+.modal-c:not(:disabled):not(.disabled) {
+    display: inline;
+
+}
+.n-r i{
+    color:#fff;
+    
+}
+.modal i{
+    color:#000;
+
+
+}
+.btnss{
+margin-top: 1rem!important;
+    margin: 0 auto;
+    display: flex;
+}
+.modal-content {
+  
+    width: 80%;
+}
     .navbar-toggler:not(:disabled):not(.disabled) {
         cursor: pointer;
         border-radius: none;
@@ -306,6 +338,10 @@ footer .footerend span {
 }
 .pass input{
     width:100%;
+}
+.modal-header .close {
+    padding: 1rem;
+    margin: 0px;
 }
 
 
